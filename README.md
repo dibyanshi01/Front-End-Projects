@@ -1,1 +1,1 @@
-# Weather App using HTML CSS Javascript with API calling
+Weather App using HTML CSS Javascript with API calling
